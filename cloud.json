@@ -1,0 +1,11 @@
+{
+	"name": "azurefunc",
+	"description": "azure function",
+	"language": "nodejs",
+	"provider": "azure",
+	"database": "none",
+	"ports": [
+		"80"
+	],
+	"git": "https://github.com/jacobsauerhoefer/azurefunc-docker.git"
+}
